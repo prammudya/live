@@ -12,18 +12,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL",RCTI (HD)
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-id="sctv.id" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV (Auto)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=681796,RESOLUTION=640x360,FRAME-RATE=25.000
-http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-
 #EXTINF:-1 group-title="NASIONAL" tvg-id="indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",Indosiar (Auto)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=681796,RESOLUTION=640x360,FRAME-RATE=25.000
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar 2 (Auto)
@@ -218,28 +210,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 http://myteve.online:8080/F12232/f23d27c1/264801
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png",Citra Bioskop (Auto)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png",Citra Drama (Auto)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png",Citra Entertainment (Auto)
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(01)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Muslim" tvg-logo="",CITRA MUSLIM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
@@ -1008,4 +985,3 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png",Citra Dangdut (qHD)
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/247446
-
