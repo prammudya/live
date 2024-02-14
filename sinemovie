@@ -214,9 +214,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png",Dunia Sinema (FHD)
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
 #EXTINF:-1 group-title="MOVIE" tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png",Flik (Auto)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -243,43 +240,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="HBO.id" tvg-name="HBO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (HD)
-https://link.zozotv.xyz:443/rozila969/abc12345/693
-
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (HD)
-https://link.zozotv.xyz:443/rozila969/abc12345/97
+http://37.49.225.197:8080/F31068/8fd17683/197972
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (HD)
-https://link.zozotv.xyz:443/rozila969/abc12345/98
+http://37.49.225.197:8080/F31068/8fd17683/197055
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (HD)
+http://37.49.225.197:8080/F31068/8fd17683/196480
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD)
-https://link.zozotv.xyz:443/rozila969/abc12345/99
-
-#EXTINF:-1 group-title="MOVIE" tvg-id="cinemax.id" tvg-name="CINEMAX" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png",Cinemax (FHD)
-https://link.zozotv.xyz:443/rozila969/abc12345/107
-
-#EXTINF:-1 group-title="MOVIE" tvg-id="axn.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1",AXN (HD)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://iptvkita.my.id:25461/tesrv50/tesrv50/47
+http://37.49.225.197:8080/F31068/8fd17683/221948
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1660693249",Cinema World (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
-
-#EXTINF:-1 group-title="MOVIE" tvg-name="Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop
-http://iptvtree.net:8080/F14995/a84c0963/298526
-
-#EXTINF:-1 group-title="MOVIE" tvg-name="Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop 02 (HD)
-http://iptvtree.net:8080/F14995/a84c0963/298527
-
-#EXTINF:-1 group-title="MOVIE" tvg-name="Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop 03 (qHD)
-http://iptvtree.net:8080/F14995/a84c0963/298528
-
-#EXTINF:-1 group-title="MOVIE" tvg-name="Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop 04 (HD)
-http://iptvtree.net:8080/F14995/a84c0963/298529
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://dl.dropboxusercontent.com/s/slxotzkfe3j9zdh/galaxy.png",Galaxy (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -307,9 +283,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
-
-#EXTINF:-1 group-title="MOVIE" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema (FHD)
-http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="mycinemaasia.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -396,11 +369,160 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png" group-title="MOVIE", HBO (qHD)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png" group-title="MOVIE", HBO Family (qHD)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png" group-title="MOVIE", HBO Hits (qHD)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png" group-title="MOVIE", HBO Signature (qHD)
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png" group-title="MOVIE", Cinemax (qHD)
+
+
+######################################################
+###################### MOVIES HD ######################
+######################################################
+
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png",Dunia Sinema (FHD)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="HBO.id" tvg-name="HBO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (HD)
+https://link.zozotv.xyz:443/rozila969/abc12345/693
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (HD)
+https://link.zozotv.xyz:443/rozila969/abc12345/97
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (HD)
+https://link.zozotv.xyz:443/rozila969/abc12345/98
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD)
+https://link.zozotv.xyz:443/rozila969/abc12345/99
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="cinemax.id" tvg-name="CINEMAX" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png",Cinemax (FHD)
+https://link.zozotv.xyz:443/rozila969/abc12345/107
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="axn.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1",AXN (HD)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+http://iptvkita.my.id:25461/tesrv50/tesrv50/47
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-name="Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop (HD)
+http://iptvtree.net:8080/F14995/a84c0963/298526
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-name="Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop 02 (HD)
+http://iptvtree.net:8080/F14995/a84c0963/298527
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-name="Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop 03 (HD)
+http://iptvtree.net:8080/F14995/a84c0963/298528
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-name="Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Etv Bioskop 04 (HD)
+http://iptvtree.net:8080/F14995/a84c0963/298529
+
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="mycinema.id" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema (FHD)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+
+
+
+######################################################
+###################### MOVIES 2 ######################
+######################################################
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Xtra (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-id="mycinemaeurope.id" tvg-name="MCE" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe (Auto)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
+
+#EXTINF: -1 group-title="MOVIE 2" group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",SONY PIX (Auto)
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png",Action Hollywood Movies (Auto)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://i.imgur.com/Gocnao7.jpg",Bollywood (Auto)
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/2560px-CJ_ENM_Logo.svg.png",CJ ENM (Auto)
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932",Movie Sphere (Auto)
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-id="mycinemaeurope.id" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe (Auto)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png",Rakuten Action Movies (Auto)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 6 (Rakuten) (Auto)
+https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 7 (Rakuten) (Auto)
+https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 8 (Rakuten) (Auto)
+https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 9 (Rakuten) (Auto)
+https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 10 (Rakuten) (Auto)
+https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 11 (Rakuten) (Auto)
+https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 12 (Rakuten) (Auto)
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 16 (Rakuten) (Auto)
+https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4lUic2y3IrMCRP3y_UZYSsdrCU6Squf48Q&usqp=CAU",WOW TV (HD)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+
+
+#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO (HD )
+#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO2 (FHD)
+#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png",HBO Mundi (HD)
+#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6KWeZ30fn4qqv7yBPS2bDzzgwxH-uqmTYA&usqp=CAU",HBO Xtreme (HD)
+#EXTINF:0 group-title="MOVIE 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",China Movie Channel (qHD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png",Sky Cinema Action (qHD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemagreats.png",Sky Cinema Great (qHD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemahits.png",Sky Cinema Hits (qHD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemapremiere.png",Sky Cinema Premier (qHD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png",Sky Cinema SCI-FI (qHD)
+#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://static.wixstatic.com/media/548813_872a37eb61c2450db5b75907fa9f1cb0~mv2.png",Dark Matter TV (Auto)
+
 
 
 
@@ -678,136 +800,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:0 group-title="TVRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgelq9oKF8diacn3LOfpG4SyFkED1_op25g&usqp=CAU",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
-
-
-
-
-######################################################
-###################### MOVIES 2 ######################
-######################################################
-
-#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO (HD )
-
-
-#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png",HBO2 (FHD)
-
-
-#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png",HBO Mundi (HD)
-
-
-#EXTINF:0  group-title="MOVIE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6KWeZ30fn4qqv7yBPS2bDzzgwxH-uqmTYA&usqp=CAU",HBO Xtreme (HD)
-
-
-#EXTINF:0 group-title="MOVIE 2" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi (Auto)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action (Auto)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max (Auto)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Xtra (Auto)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids (Auto)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
-#EXTINF:-1 group-title="MOVIE" tvg-id="mycinemaeurope.id" tvg-name="MCE" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe (Auto)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",China Movie Channel (qHD)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png",Sky Cinema Action (qHD)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemagreats.png",Sky Cinema Great (qHD)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemahits.png",Sky Cinema Hits (qHD)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemapremiere.png",Sky Cinema Premier (qHD)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png",Sky Cinema SCI-FI (qHD)
-
-
-#EXTINF: -1 group-title="MOVIE 2" group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",SONY PIX (Auto)
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png",Action Hollywood Movies (Auto)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://i.imgur.com/Gocnao7.jpg",Bollywood (Auto)
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/CJ_ENM_Logo.svg/2560px-CJ_ENM_Logo.svg.png",CJ ENM (Auto)
-https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://static.wixstatic.com/media/548813_872a37eb61c2450db5b75907fa9f1cb0~mv2.png",Dark Matter TV (Auto)
-
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932",Movie Sphere (Auto)
-https://moviesphere-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-id="mycinemaeurope.id" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe (Auto)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://210.210.155.35/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/440px-Rakuten_Global_Brand_Logo.svg.png",Rakuten Action Movies (Auto)
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 6 (Rakuten) (Auto)
-https://rakuten-family-6-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 7 (Rakuten) (Auto)
-https://rakuten-family-7-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 8 (Rakuten) (Auto)
-https://rakuten-family-8-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 9 (Rakuten) (Auto)
-https://rakuten-family-9-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 10 (Rakuten) (Auto)
-https://rakuten-family-10-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 11 (Rakuten) (Auto)
-https://rakuten-family-11-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 12 (Rakuten) (Auto)
-https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rakuten-Global-Logo.jpg/1200px-Rakuten-Global-Logo.jpg",Family 16 (Rakuten) (Auto)
-https://rakuten-family-16-eu.rakuten.wurl.tv/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
-
-#EXTINF:-1 group-title="MOVIE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4lUic2y3IrMCRP3y_UZYSsdrCU6Squf48Q&usqp=CAU",WOW TV (HD)
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 
 
