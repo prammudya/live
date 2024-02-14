@@ -239,16 +239,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="HBO.id" tvg-name="HBO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (HD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="HBO.id" tvg-name="HBO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/197972
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (HD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/197055
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (HD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/196480
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/221948
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1660693249",Cinema World (Auto)
