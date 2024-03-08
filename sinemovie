@@ -4,7 +4,7 @@
 ###############  TV NASIONAL INDONESIA ###############
 ######################################################
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI.id" tvg-name="RCTI" group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -33,7 +33,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV.id" tvg-name="GTV" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png",GTV (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png",GTV (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -87,14 +87,14 @@ http://iptvtree.net:8080/F14995/a84c0963/264766
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.mncnow.id/images/channel/31c7d540/8e75.png",Okezone TV (Auto)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683128&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 group-title="NASIONAL" tvg-id="jtv.id" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Okezone_%282007%29.png",Okezone TV (Auto) ***
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="jtv.id" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV (Auto)
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
 #EXTINF:-1 tvg-id="tvone.id" tvg-name="tvOne" group-title="NASIONAL" tvg-id="tvone.id" tvg-name="tvOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png",TV ONE (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -114,6 +114,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#EXTINF:-1 group-title="TVRI" tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
 #EXTINF:0 group-title="NASIONAL" tvg-id="mncnews.id" tvg-name="MNC News" tvg-logo="https://i.imgur.com/gtiuZEf.png",MNC News (Auto)
 http://iptvtree.net:8080/F14995/a84c0963/165058
 
@@ -123,11 +129,22 @@ http://iptvtree.net:8080/F14995/a84c0963/165058
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews  (Auto)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+
 #EXTINF:0 group-title="NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDAIr6kvUZ56dQ6F5e_ddVsCJx04iWnJ3KhQ&usqp=CAU",Berita Satu (Auto)
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
 #EXTINF:0 group-title="NASIONAL" tvg-id="beritasatu.id" tvg-name="Berita Satu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Berita_satu_world_id.png/revision/latest?cb=20190324014258",Berita Satu World (qHD)
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://id.wikipedia.org/wiki/Garuda_TV#/media/Berkas:Logo_GarudaTV_Merah_Putih_Silver_Merah.png",Garuda TV (SD)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png",CNBC Indonesia (Auto)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
@@ -135,13 +152,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-id="cnn.id" tvg-name="cnn" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia (Auto)
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="idx.id" tvg-name="IDX" tvg-logo="https://images.useetv.com/logo_idx_big.png",IDX (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-id="idx.id" tvg-name="IDX" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/nhdpQL2S/20230518-222156.png",Indonesiana TV (FHD)
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/nhdpQL2S/20230518-222156.png",Indonesiana TV (FHD) ***
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:0 group-title="NASIONAL" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna Channel  (Auto)
@@ -149,7 +166,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png",Nusantara TV (HD)
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png",Nusantara TV (HD)
 http://iptvtree.net:8080/F14995/a84c0963/162509
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="BALITV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",Bali TV (Auto)
@@ -158,13 +175,12 @@ http://iptvtree.net:8080/F14995/a84c0963/162509
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://testfunctionlive.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="daaitv.id" tvg-name="Daai TV" tvg-logo="https://i.postimg.cc/JzRzkvL0/20230518-222230.png",DAAI TV (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-id="daaitv.id" tvg-name="Daai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png",DAAI TV (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://i.postimg.cc/vB0WJftL/20230518-221238.png",Garuda TV (SD)
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://yt3.ggpht.com/a/AATXAJytvoO8XJpinmmxq4xVqSRYukKA_2H7ANqB1A=s900-c-k-c0xffffffff-no-rj-mo",GPR TV (HD)
 #EXTINF:-1 group-title="NASIONAL" tvg-id="JAKTV.id" tvg-name="JAKTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU",JakTV (qHD)
 #EXTINF:0 group-title="NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOIuoQ_oXPdWz8eBvpsQ7Cgl7fc0dpD8nEQ&usqp=CAU",Lifestyle (qHD)
@@ -177,7 +193,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 ######################################################
-################ NASIONAL TRANSVISION ################
+################ NASIONAL 2 ################
 ######################################################
 
 #EXTINF:-1 group-title="NASIONAL 2" tvg-id="trans7.id" tvg-name="Trans 7" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7 (HD)
@@ -186,6 +202,18 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w44437729_b744100_slen
 #EXTINF:-1 group-title="NASIONAL 2" tvg-id="transtv.id" tvg-name="Trans TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV (HD)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_sleng.m3u8
 
+
+#EXTINF:-1 group-title="NASIONAL 2" tvg-id="NET TV - [Channel 116].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 group-title="NASIONAL 2" tvg-id="NET TV - [Channel 116].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 
 
@@ -197,16 +225,16 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_s
 #EXTINF:-1 group-title="MOVIE" tvg-id="bioskopindonesia.id" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png",Bioskop Indonesia (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/264801
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png",Citra Bioskop (qHD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png",Citra Bioskop (qHD) ***
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png",Citra Drama (qHD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png",Citra Drama (qHD) ***
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png",Citra Entertainment (qHD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png",Citra Entertainment (qHD) ***
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Muslim" tvg-logo="",CITRA MUSLIM (Auto)
+#EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-name="Citra Muslim" tvg-logo="",CITRA MUSLIM (Auto) ***
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-name="Dunia Lain" tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png",Dunia Lain (Auto)
@@ -239,16 +267,34 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="HBO.id" tvg-name="HBO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (qHD)
-http://37.49.225.197:8080/F31068/8fd17683/197972
+#EXTINF:-1 group-title="MOVIE" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (Auto)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (qHD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (Auto)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (Auto)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (Auto)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+https://servicebuss.transvision.co.id/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/197055
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (qHD)
-http://37.49.225.197:8080/F31068/8fd17683/196480
-
-#EXTINF:-1 group-title="MOVIE" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (qHD)
+#EXTINF:-1 group-title="MOVIE" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/221948
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529178_ico.png?ts=1660693249",Cinema World (Auto)
@@ -310,7 +356,7 @@ http://210.210.155.35/dr9445/h/h15/index.m3u8
 #EXTINF:0 group-title="MOVIE" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Entertainment.png",Rock Entertainment (Auto)
 http://210.210.155.35/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-name="WARNER" tvg-logo="https://hometv.pw/logo/movies/warner.png",WARNER (Auto)
+#EXTINF:-1 group-title="MOVIE" tvg-name="WARNER" tvg-logo="https://hometv.pw/logo/movies/warner.png",WARNER (HD)
 https://s.id/21D9X-warner|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19498504_ico.png?ts=1655156867",THRILL (Auto)
@@ -343,7 +389,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 group-title="MOVIE" tvg-id="tvnmovies.id" tvg-name="TVN MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19529148_ico.png?ts=1655456212",TVN Movies (Auto)
 http://210.210.155.37/dr9445/h/h21/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png",K+ (Auto)
+#EXTINF:-1 group-title="MOVIE" tvg-id="KPlus.MACAN" tvg-name="Kplus" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png",K+ (Auto) ***
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -379,22 +425,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="MOVIE HD" tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png",Dunia Sinema (FHD)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 group-title="MOVIE HD" tvg-id="HBO.id" tvg-name="HBO" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (HD)
-https://link.zozotv.xyz:443/rozila969/abc12345/693
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png",HBO (FHD)
+http://37.49.225.197:8080/F31068/8fd17683/197972
 
-#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (HD)
-https://link.zozotv.xyz:443/rozila969/abc12345/97
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png",HBO Hits (FHD)
+http://37.49.225.197:8080/F31068/8fd17683/196480
 
-#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (HD)
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png",HBO Family (HD) ***
 https://link.zozotv.xyz:443/rozila969/abc12345/98
 
-#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD)
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (HD) ***
 https://link.zozotv.xyz:443/rozila969/abc12345/99
 
-#EXTINF:-1 group-title="MOVIE HD" tvg-id="cinemax.id" tvg-name="CINEMAX" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png",Cinemax (FHD)
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="cinemax.id" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png",Cinemax (FHD) ***
 https://link.zozotv.xyz:443/rozila969/abc12345/107
 
-#EXTINF:-1 group-title="MOVIE HD" tvg-id="axn.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1",AXN (HD)
+#EXTINF:-1 group-title="MOVIE HD" tvg-id="axn.id" tvg-name="AXN" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1",AXN (HD) ***
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -531,8 +577,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 ################# TV LOKAL INDONESIA #################
 ######################################################
 
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-id="jtv.id" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:0 group-title="LOKAL" tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
@@ -819,31 +868,9 @@ http://210.210.155.35/session/21c6b7ca-a4ad-11ec-8c65-b82a72d63267/uq2663/h/h191
 ####################### KARTUN #######################
 ######################################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-
-#EXTINF:0 group-title="KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",Animax *
-
-
-#EXTINF:0 group-title="KARTUN" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV *
-
-
-#EXTINF:0 group-title="KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png",Boomerang South East Asia *
-
-
 #EXTINF:-1 group-title="KARTUN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoonito (Auto)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
-#EXTINF:0 group-title="KARTUN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png",Nick Jr *
-
-
-#EXTINF:-1 group-title="KARTUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" tvg-id="CartoonTVPremium.id" tvg-name="Cartoon TV Premium",Cartoon TV Premium (Auto)  
-
-
-#EXTINF:-1 group-title="KARTUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG-dTjCQ_sClA4zEV_pZ7s8yOk8uuvxCbEw&usqp=CAU" tvg-id="CartoonTV.id" tvg-name="Cartoon TV",Cartoon TV (Auto) 
-
-
-#EXTINF:-1 group-title="KARTUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpst-QpIoz5zJL-SRXFaM59X0phD7Jd0Cu2A&usqp=CAU" tvg-id="CartoonTVClassics.id" tvg-name="Cartoon TV Classics",Cartoon TV Classics (Auto)  
 
 
 
@@ -855,30 +882,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
 
 #EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet (Auto)
 https://kusnadipepenk.github.io/ntn/animal.m3u8
-
-#EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet (qHD)
-
-
-#EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_461.png",BBC Earth (Auto)
-
-
-#EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://www.e-besmart.gr/assets/img/logo.png",BeSmart *
-
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png",Bisnet Adventure 4K (HD)
-
-
-#EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation (HD)
-
-
-#EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel (qHD)
-
-
-#EXTINF:0 group-title="PENGETAHUAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_History_Channel-Logo.svg/2560px-The_History_Channel-Logo.svg.png",History (Auto)
-
-
-#EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png",Lingua ()
-
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -901,31 +904,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 group-title="RELIGI" tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png",MQTV (HD)
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
-#EXTINF:0 group-title="RELIGI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png",Al Quran Al Kareem TV *
-
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdqNompH8agN-ooAVPjNjiAZsUBb56u_vizg&usqp=CAU",Al Sunnah Nabawi TV HD
-
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7xxfuJHJG_6d8yirqf2y1oxQpztBGSyQCg&usqp=CAU",Madinah TV HD
-
-
-#EXTINF:0 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.imgur.com/3kGs7k0.png",MTA TV
-
-
-#EXTINF:0 group-title="RELIGI" tvg-logo="https://www.mncchannels.com/timthumb.php?zc=3&w=378&h=129&src=/files/logo/1579059506_logo_muslim%20tv.png",Muslim TV *
-
-
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSb2fs1Qg8HHtL0En0Pdyjmt2YwEmFBSl_SQ&usqp=CAU",Rodja TV
-
-
-#EXTINF:0 group-title="RELIGI" tvg-logo="https://i.postimg.cc/hPSf31rm/tawaf-tv-removebg-preview.png",Tawaf TV *
-
-
-#EXTINF:0 group-title="RELIGI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest/scale-to-width-down/268?cb=20220525022727",TV9 *
-
-
-#EXTINF:0 group-title="RELIGI" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/a5/TVMu_logo.svg/1200px-TVMu_logo.svg.png",TV Muhammadiyah *
 
 
 
@@ -936,4 +914,3 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIK" tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png",Citra Dangdut (qHD)
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/247446
-
