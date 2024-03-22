@@ -1,12 +1,14 @@
-#EXTM3U billed-msg="TV Online", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://i.mjh.nz/au/all/epg.xml, https://www.tdtchannels.com/epg/TV.xml, https://www.bevy.be/bevyfiles/indonesiapremium1.xml, https://www.bevy.be/bevyfiles/indonesiapremium2.xml, https://www.bevy.be/bevyfiles/indonesiapremium3.xml, https://www.bevy.be/bevyfiles/indonesiapremium4.xml, https://www.bevy.be/bevyfiles/indiapremium4.xml, https://www.bevy.be/bevyfiles/malaysia.xml, https://www.bevy.be/bevyfiles/malaysiapremium1.xml, https://www.bevy.be/bevyfiles/malaysiapremium2.xml, https://www.bevy.be/bevyfiles/singaporepremium.xml, https://www.bevy.be/bevyfiles/thailand.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://i.mjh.nz/PlutoTV/all.xml, https://www.bevy.be/bevyfiles/francepremium.xml, https://www.bevy.be/bevyfiles/slovakia.xml, https://www.bevy.be/bevyfiles/slovakiapremium.xml" refresh="23"
+#EXTM3U billed-msg="TV Online"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml,https://i.mjh.nz/au/all/epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.tdtchannels.com/epg/TV.xml" refresh="24"
 
-######################################################
-###############  TV NASIONAL INDONESIA ###############
-######################################################
+
+======================================================
+===============  TV NASIONAL INDONESIA ===============
+======================================================
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg",
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-id="RCTI - [Channel 80].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -35,7 +37,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV - [Channel 81].id" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png",GTV (Auto)
+#EXTINF:-1 group-title="NASIONAL" tvg-id="GTV - [Channel 81].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png",GTV (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -216,9 +218,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 
-######################################################
-################ NASIONAL 2 ################
-######################################################
+======================================================
+==================== NASIONAL 2 ======================
+======================================================
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg",
 
@@ -271,9 +273,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 
 
-######################################################
-###################### DENS TV #######################
-######################################################
+======================================================
+====================== DENS TV =======================
+======================================================
 
 #EXTINF:-1 group-logo="https://yt3.googleusercontent.com/60skcSv4poBGGlvqblcKfi4ws7_e7P-UCmuu9g1ixPhOLRrXXMUDiLWsu3VeUgVqYAD5xBdJWg=s176-c-k-c0x00ffffff-no-rj",
 
@@ -489,9 +491,9 @@ http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
 
 
-######################################################
-###################### INDIHOME ######################
-######################################################
+======================================================
+====================== INDIHOME ======================
+======================================================
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_IndiHome_TV.png/800px-Logo_IndiHome_TV.png",
 
@@ -728,9 +730,9 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/cnni
 
 
 
-######################################################
-####################### MOVIES #######################
-######################################################
+======================================================
+======================= MOVIES =======================
+======================================================
 
 #EXTINF:-1 group-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",
 
@@ -922,9 +924,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 
 
-######################################################
-###################### MOVIES 2 ######################
-######################################################
+======================================================
+====================== MOVIES 2 ======================
+======================================================
 
 #EXTINF:-1 group-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",
 
@@ -973,9 +975,9 @@ https://s.id/21D9X-warner|User-Agent=OTT Navigator/hometv.finale (Linux;Android 
 
 
 
-######################################################
-###################### MOVIES 3 ######################
-######################################################
+======================================================
+====================== MOVIES 3 ======================
+======================================================
 
 #EXTINF:-1 group-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",
 
@@ -1162,9 +1164,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 
 
-######################################################
-##################### OLAH RAGA ######################
-######################################################
+======================================================
+===================== OLAH RAGA ======================
+======================================================
 
 #EXTINF:-1 group-logo="https://anutv.xyz/gambar/premier.png",
 
@@ -1259,9 +1261,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 
 
 
-######################################################
-######################## ANAK ########################
-######################################################
+======================================================
+======================== ANAK ========================
+======================================================
 
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/dvialegsOhlolSrW4VAJm9n7btsEeR4wALqVKGDaolBnMMdX7su9SSziVi1Fzb7wM0ph=w240-h480-rw",
 
@@ -1272,9 +1274,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 
 
 
-######################################################
-####################### KARTUN #######################
-######################################################
+======================================================
+======================= KARTUN =======================
+======================================================
 
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/dvialegsOhlolSrW4VAJm9n7btsEeR4wALqVKGDaolBnMMdX7su9SSziVi1Fzb7wM0ph=w240-h480-rw",
 
@@ -1366,9 +1368,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 
 
-######################################################
-##################### PENGETAHUAN ####################
-######################################################
+======================================================
+===================== PENGETAHUAN ====================
+======================================================
 
 #EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/film-strip-reel-vector-icon-600nw-1744971776.jpg",
 
@@ -1433,9 +1435,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 
 
 
-######################################################
-################# TV LOKAL INDONESIA #################
-######################################################
+======================================================
+================= TV LOKAL INDONESIA =================
+======================================================
 
 #EXTINF:-1 group-title="LOKAL" group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg" tvg-id="jtv.id" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1571,9 +1573,9 @@ https://h1.intechmedia.net/intech/ch52.m3u8
 
 
 
-######################################################
-######################## TVRI ########################
-######################################################
+======================================================
+======================== TVRI ========================
+======================================================
 
 #EXTINF:-1 group-title="TVRI" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI Nasional (HD)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1848,9 +1850,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
 
 
 
-######################################################
-####################### RELIGI #######################
-######################################################
+======================================================
+======================= RELIGI =======================
+======================================================
 
 #EXTINF:-1 group-title="RELIGI" group-logo="https://static.vecteezy.com/system/resources/thumbnails/006/081/846/small_2x/islamic-logo-mosque-vector.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn96XMFHcAHXLJkBBYHyGWqWU7M_7EO5QSAg&usqp=CAU",Alwafa Tarim TV (Auto)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -1868,9 +1870,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
-######################################################
-####################### MUSIK ########################
-######################################################
+======================================================
+======================= MUSIK ========================
+======================================================
 
 #EXTINF:-1 group-title="MUSIK" group-logo="https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg" tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png",Citra Dangdut (qHD)
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/247446
@@ -1881,9 +1883,9 @@ http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/247446
 
 
 
-######################################################
-#################### SAMSUNG TV ######################
-######################################################
+======================================================
+===================== SAMSUNG TV =====================
+======================================================
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
@@ -2189,5 +2191,3 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="SAMSUNG TV", 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8|user-agent=okhttp/4.10.0
-
-
