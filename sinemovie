@@ -2,9 +2,9 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml,https://i.mjh.nz/au/all/epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/SamsungTVPlus/kr.xml,https://www.tdtchannels.com/epg/TV.xml" refresh="24"
 
 
-======================================================
-===============  TV NASIONAL INDONESIA ===============
-======================================================
+######################################################
+###############  TV NASIONAL INDONESIA ###############
+######################################################
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg",
 
@@ -218,9 +218,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 
-======================================================
-==================== NASIONAL 2 ======================
-======================================================
+######################################################
+#################### NASIONAL 2 ######################
+######################################################
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg",
 
@@ -273,9 +273,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 
 
-======================================================
-====================== DENS TV =======================
-======================================================
+######################################################
+###################### DENS TV #######################
+######################################################
 
 #EXTINF:-1 group-logo="https://yt3.googleusercontent.com/60skcSv4poBGGlvqblcKfi4ws7_e7P-UCmuu9g1ixPhOLRrXXMUDiLWsu3VeUgVqYAD5xBdJWg=s176-c-k-c0x00ffffff-no-rj",
 
@@ -491,9 +491,9 @@ http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
 
 
-======================================================
-====================== INDIHOME ======================
-======================================================
+######################################################
+###################### INDIHOME ######################
+######################################################
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Logo_IndiHome_TV.png/800px-Logo_IndiHome_TV.png",
 
@@ -730,9 +730,9 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/cnni
 
 
 
-======================================================
-======================= MOVIES =======================
-======================================================
+######################################################
+####################### MOVIES #######################
+######################################################
 
 #EXTINF:-1 group-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",
 
@@ -740,16 +740,16 @@ https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/cnni
 http://37.49.225.197:8080/F31068/8fd17683/264801
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png",Citra Bioskop (qHD) ***
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(02)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png",Citra Drama (qHD) ***
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(02)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="" tvg-name="Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png",Citra Entertainment (qHD) ***
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="" tvg-name="Citra Muslim" tvg-logo="",CITRA MUSLIM (Auto) ***
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="Dunia Lain" tvg-name="Dunia Lain" tvg-logo="https://hometv.pw/logo/entertainment/dunialain.png",Dunia Lain (Auto)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -782,12 +782,33 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",HBO (Auto)
-
-#EXTINF:-1 group-title="HIBURAN 1" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO Family (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+https://servicebuss.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN 1" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO Family (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN 1" tvg-id="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO Family (qHD)
 http://37.49.225.197:8080/F31068/8fd17683/197055
@@ -869,7 +890,10 @@ http://210.210.155.35/dr9445/h/h15/index.m3u8
 http://210.210.155.35/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="WarnerTVAsia.us" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png",Warner TV (Auto)
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 group-title="HIBURAN 1" tvg-id="Thrill - [Channel 19].id" tvg-name="Thrill" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg",THRILL (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -924,14 +948,56 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 
 
-======================================================
-====================== MOVIES 2 ======================
-======================================================
+######################################################
+###################### MOVIES 2 ######################
+######################################################
 
 #EXTINF:-1 group-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",
 
 #EXTINF:-1 group-title="HIBURAN 2" tvg-id="Dunia Sinema HD" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png",Dunia Sinema (FHD)
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="Flik" tvg-name="Flik" tvg-logo="https://images.useetv.com/logo_flik_small1.png",Flik (qHD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/165095
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",HBO (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO Family (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (Auto)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true 
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (Auto)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",HBO (FHD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+
+#EXTINF:-1 group-title="HIBURAN2" tvg-id="hbohits.id" tvg-name="HBO HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits (qHD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="hbofamily.id" tvg-name="HBO FAMILY" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO Family (qHD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="hbosignature.id" tvg-name="HBO SIGNATURE" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature (qHD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
+
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax (FHD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
 
 #EXTINF:-1 group-title="HIBURAN 2" tvg-id="HBO HD" tvg-name="" tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png",HBO (FHD)
 http://37.49.225.197:8080/F31068/8fd17683/197972
@@ -972,12 +1038,14 @@ http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 group-title="HIBURAN 2" tvg-id="Warner" tvg-name="Warner" tvg-logo="https://hometv.pw/logo/movies/warner.png",WARNER (HD)
 https://s.id/21D9X-warner|User-Agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 
+#EXTINF:-1 group-title="HIBURAN 2" tvg-id="Warner" tvg-name="Warner" tvg-logo="https://hometv.pw/logo/movies/warner.png",WARNER (HD)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157594
 
 
 
-======================================================
-====================== MOVIES 3 ======================
-======================================================
+######################################################
+###################### MOVIES 3 ######################
+######################################################
 
 #EXTINF:-1 group-logo="https://t3.ftcdn.net/jpg/05/90/75/40/360_F_590754013_CoFRYEcAmLREfB3k8vjzuyStsDbMAnqC.jpg",
 
@@ -1089,8 +1157,8 @@ https://edge-live12-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
 
-
-
+#EXTINF:-1 group-title="Movies" tvg-id="andflix.in" tvg-logo="https://dl.dropbox.com/scl/fi/f6h6le95jg5nc8py19d1h/flik.png?rlkey=dv0p64g8xajo7ct6mendlbhi5&dl=0",&flix (FHD)
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1956
 
 #EXTINF:-1 group-title="HIBURAN 3" tvg-id="mycinemaeurope.id" tvg-name="MCE" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe (Auto)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -1108,6 +1176,9 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 group-title="HIBURAN 3" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://i.imgur.com/B3RHwVN.png",Action Hollywood Movies (Auto)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="HIBURAN 3" tvg-id="b4umovies.in" tvg-logo="https://dl.dropbox.com/scl/fi/6ei6gf85xjv1f4ajzcahn/b4u.png?rlkey=b56o19u1ymwl2zferkx9yi6lr&dl=0",B4U Movies (SD)
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1942
 
 #EXTINF:-1 group-title="HIBURAN 3" tvg-logo="https://i.imgur.com/Gocnao7.jpg",Bollywood (Auto)
 #https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
@@ -1164,9 +1235,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
 
 
-======================================================
-===================== OLAH RAGA ======================
-======================================================
+######################################################
+##################### OLAH RAGA ######################
+######################################################
 
 #EXTINF:-1 group-logo="https://anutv.xyz/gambar/premier.png",
 
@@ -1261,9 +1332,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 
 
 
-======================================================
-======================== ANAK ========================
-======================================================
+######################################################
+######################## ANAK ########################
+######################################################
 
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/dvialegsOhlolSrW4VAJm9n7btsEeR4wALqVKGDaolBnMMdX7su9SSziVi1Fzb7wM0ph=w240-h480-rw",
 
@@ -1274,9 +1345,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 
 
 
-======================================================
-======================= KARTUN =======================
-======================================================
+######################################################
+####################### KARTUN #######################
+######################################################
 
 #EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/dvialegsOhlolSrW4VAJm9n7btsEeR4wALqVKGDaolBnMMdX7su9SSziVi1Fzb7wM0ph=w240-h480-rw",
 
@@ -1368,9 +1439,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
 
 
-======================================================
-===================== PENGETAHUAN ====================
-======================================================
+######################################################
+##################### PENGETAHUAN ####################
+######################################################
 
 #EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/film-strip-reel-vector-icon-600nw-1744971776.jpg",
 
@@ -1435,9 +1506,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 
 
 
-======================================================
-================= TV LOKAL INDONESIA =================
-======================================================
+######################################################
+################# TV LOKAL INDONESIA #################
+######################################################
 
 #EXTINF:-1 group-title="LOKAL" group-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_Indonesia_%28WFB_2000%29.jpg" tvg-id="jtv.id" tvg-name="JTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV (Auto)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1573,9 +1644,9 @@ https://h1.intechmedia.net/intech/ch52.m3u8
 
 
 
-======================================================
-======================== TVRI ========================
-======================================================
+######################################################
+######################## TVRI ########################
+######################################################
 
 #EXTINF:-1 group-title="TVRI" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png" tvg-id="" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg",TVRI Nasional (HD)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1850,9 +1921,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
 
 
 
-======================================================
-======================= RELIGI =======================
-======================================================
+######################################################
+####################### RELIGI #######################
+######################################################
 
 #EXTINF:-1 group-title="RELIGI" group-logo="https://static.vecteezy.com/system/resources/thumbnails/006/081/846/small_2x/islamic-logo-mosque-vector.jpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn96XMFHcAHXLJkBBYHyGWqWU7M_7EO5QSAg&usqp=CAU",Alwafa Tarim TV (Auto)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -1870,9 +1941,9 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 
 
 
-======================================================
-======================= MUSIK ========================
-======================================================
+######################################################
+####################### MUSIK ########################
+######################################################
 
 #EXTINF:-1 group-title="MUSIK" group-logo="https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg" tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png",Citra Dangdut (qHD)
 http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/247446
@@ -1883,9 +1954,9 @@ http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/247446
 
 
 
-======================================================
-===================== SAMSUNG TV =====================
-======================================================
+######################################################
+##################### SAMSUNG TV #####################
+######################################################
 
 #EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="SAMSUNG TV", 연합뉴스TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8|user-agent=okhttp/4.10.0
